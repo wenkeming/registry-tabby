@@ -116,7 +116,7 @@
     "sha256": "8c00d506830413d5a629cd6fe84e58efd1110e0eeb8f7198a69f258c09167460"
   },
   {
-    "name": "Magiccoder-6.7B",
+    "name": "Magicoder-6.7B",
     "license_name": "Deepseek License",
     "license_url": "https://huggingface.co/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL",
     "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
