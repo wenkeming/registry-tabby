@@ -114,5 +114,16 @@
       "https://huggingface.co/maddes8cht/smallcloudai-Refact-1_6B-fim-gguf/resolve/main/smallcloudai-Refact-1_6B-fim-Q8_0.gguf"
     ],
     "sha256": "8c00d506830413d5a629cd6fe84e58efd1110e0eeb8f7198a69f258c09167460"
+  },
+  {
+    "name": "Magiccoder-6.7B",
+    "license_name": "Deepseek License",
+    "license_url": "https://huggingface.co/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL",
+    "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
+    "provider_url": "https://huggingface.co/TheBloke/Magicoder-S-DS-6.7B-GGUF",
+    "urls": [
+      "https://huggingface.co/TheBloke/Magicoder-S-DS-6.7B-GGUF/resolve/main/magicoder-s-ds-6.7b.Q8_0.gguf"
+    ],
+    "sha256": "45e6b4c4ab2a44541c5f328c13232c9ab2ec4008ffc9a563e73ceca875240868"
   }
 ]
